@@ -22,7 +22,7 @@ pip install opencv-python dlib imutils numpy pygame
 
 1. Clone the repository or download the script.
 2. Make sure you have the required libraries installed.
-3. > IMPORTANT
+3. IMPORTANT
 
   Download `shape_predictor_68_face_landmarks.dat.bz2` from [Shape Predictor 68 features](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) 
   Extract the file in the project folder using 
